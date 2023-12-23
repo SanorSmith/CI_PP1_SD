@@ -23,7 +23,7 @@ body {
     font-family: "Oswald", sans-serif;
 }
 
-#curved_corner {
+.curved_corner {
     border-radius: 5px;
 }
 
