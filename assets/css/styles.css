@@ -37,7 +37,7 @@ h3 {
 }
 
 h2 {
-    color: #ea1538;
+    color: #99051d;
     text-shadow: 1px 2px #000000;
 }
 
@@ -67,7 +67,7 @@ h2 {
 
 label>span {
     color: #0f0607;
-    text-shadow: 1px 2px 2px #ea1538;
+    text-shadow: 1px 2px 2px #99051d;
 }
 
 /* Nav menue style */
@@ -96,7 +96,7 @@ nav .links_s li {
 }
 
 nav .links_s li a {
-    color: #ea1538;
+    color: #99051d;
     font-size: 20px;
     text-transform: uppercase;
     padding: 7px 13px;
@@ -184,7 +184,7 @@ main {
 
 /* justify the Services paragraphs */
 #services,
-#ser_short ul li p {
+#ser_short p {
     text-align: justify;
 }
 
@@ -194,13 +194,17 @@ main {
     padding: 15px;
 }
 
+.ser_style h3{
+    font-size:1.4rem ;        
+    text-align:left;
+    padding: 20px 0;
+}
+
 
 .ser_img_style {
     width: 100%;
     border-radius: 5px;
     box-shadow: 1px 1px 1px 0px;
-    margin-bottom: 10px;
-
 }
 
 #ser_img_1 {
@@ -287,7 +291,7 @@ main {
 }
 
 #gallary>h2 {
-    color: #ea1538;
+    color: #99051d;
 }
 
 /* Project images style */
@@ -651,6 +655,8 @@ input {
     }
 
 
+
+
     /* Re-adjust Gallary section to fit on tablet screen size*/
 
     #gallary {
@@ -833,11 +839,12 @@ input {
     }
 
     /* Services section */
-    h4,
+    
     p {
         font-size: 150%;
-
     }
+
+    
 
     /*Gallary*/
     .project_style>li {
