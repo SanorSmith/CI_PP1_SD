@@ -154,7 +154,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/hero.jpg") no-repeat center center/cover;
+    background: url("../images/hero.webp") no-repeat center center/cover;
 }
 
 /* Style the cover text */
@@ -205,32 +205,32 @@ main {
 
 #ser_img_1 {
     height: 300px;
-    background: url("../images/pexels-ser_1.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-ser_1.webp") no-repeat center center/cover;
 }
 
 #ser_img_2 {
     height: 300Px;
-    background: url("../images/pexels-ser_2.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-ser_2.webp") no-repeat center center/cover;
 }
 
 #ser_img_3 {
     height: 300Px;
-    background: url("../images/pexels-ser_3.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-ser_3.webp") no-repeat center center/cover;
 }
 
 #ser_img_4 {
     height: 300px;
-    background: url("../images/pexels-ser_4.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-ser_4.webp") no-repeat center center/cover;
 }
 
 #ser_img_5 {
     height: 300Px;
-    background: url("../images/pexels-ser_5.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-ser_5.webp") no-repeat center center/cover;
 }
 
 #ser_img_6 {
     height: 300Px;
-    background: url("../images/pexels-ser_6.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-ser_6.webp") no-repeat center center/cover;
 }
 
 #ser_types {
@@ -309,35 +309,35 @@ main {
 }
 
 #pro_img_1 {
-    background: url("../images/pro_ 1.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 1.webp") no-repeat center center/cover;
 }
 
 #pro_img_2 {
-    background: url("../images/pro_ 2.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 2.webp") no-repeat center center/cover;
 }
 
 #pro_img_3 {
-    background: url("../images/pro_ 3.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 3.webp") no-repeat center center/cover;
 }
 
 #pro_img_4 {
-    background: url("../images/pro_ 4.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 4.webp") no-repeat center center/cover;
 }
 
 #pro_img_5 {
-    background: url("../images/pro_ 5.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 5.webp") no-repeat center center/cover;
 }
 
 #pro_img_6 {
-    background: url("../images/pro_ 6.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 6.webp") no-repeat center center/cover;
 }
 
 #pro_img_7 {
-    background: url("../images/pro_ 7.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 7.webp") no-repeat center center/cover;
 }
 
 #pro_img_8 {
-    background: url("../images/pro_ 8.jpg") no-repeat center center/cover;
+    background: url("../images/pro_ 8.webp") no-repeat center center/cover;
 }
 
 
@@ -367,18 +367,18 @@ main {
 
 #bk_img_1 {
     height: 150Px;
-    background: url("../images/pexels-about_our_mission.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-about_our_mission.webp") no-repeat center center/cover;
 }
 
 #bk_img_2 {
     height: 150Px;
-    background: url("../images/pexels-about_our_approach.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-about_our_approach.webp") no-repeat center center/cover;
 
 }
 
 #bk_img_3 {
     height: 150Px;
-    background: url("../images/pexels-about_sustainability.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-about_sustainability.webp") no-repeat center center/cover;
 }
 
 
@@ -871,9 +871,6 @@ input {
 
 
 }
-
-
-
 
 /* Adjuste header elements to desktop/laptop devices screen*/
 @media screen and (min-width: 1200px) {
