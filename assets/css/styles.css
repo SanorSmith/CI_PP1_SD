@@ -351,6 +351,14 @@ main {
 
 /* About Section */
 
+.about_container h3 {
+    font-size: 1.2rem;
+    padding: 5px 0;
+    text-align: left;
+}
+
+
+
 .about_type_1,
 .about_type_2 {
     display: flex;
@@ -688,6 +696,13 @@ input {
 
 
     /*View About sections horizontally*/
+
+    .about_container h3 {
+        font-size: 1.6rem;
+        
+    }
+    
+
     .about_type_1 {
         display: flex;
         flex-direction: row;
@@ -893,7 +908,7 @@ input {
 
 
     /* Services section */
-    h4,
+    
     p {
         font-size: 170%;
 
