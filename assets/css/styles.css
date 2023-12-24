@@ -524,7 +524,7 @@ input {
     
 }
 
-/* styling social networks icons */
+/* Styling social networks icons */
 #social_networks i {
     font-size: 160%;
     padding: 5%;
@@ -851,12 +851,26 @@ input {
 
     }
 
+/*Footer*/
+#footer_container {
+   
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
 
+#info_times > li {
+    padding: 15px;
+}
 
-
+#social_networks {
+    flex-grow: 2;
+    align-items: center;
+    
 }
 
 
+}
 
 
 
