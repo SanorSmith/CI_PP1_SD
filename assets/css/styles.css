@@ -773,6 +773,7 @@ input {
 
     #email_tel {
         order: 2;
+        font-size: 150%;
     }
 
     #adress {
