@@ -210,16 +210,19 @@ main {
 #ser_img_1 {
     height: 300px;
     background: url("../images/pexels-ser_1.webp") no-repeat center center/cover;
+    
 }
 
 #ser_img_2 {
     height: 300Px;
     background: url("../images/pexels-ser_2.webp") no-repeat center center/cover;
+    background-position: 50% 30%;
 }
 
 #ser_img_3 {
     height: 300Px;
     background: url("../images/pexels-ser_3.webp") no-repeat center center/cover;
+    background-position: 50% 70%;
 }
 
 #ser_img_4 {
@@ -230,6 +233,7 @@ main {
 #ser_img_5 {
     height: 300Px;
     background: url("../images/pexels-ser_5.webp") no-repeat center center/cover;
+    background-position: 50% 70%;
 }
 
 #ser_img_6 {
@@ -373,7 +377,7 @@ main {
     width: 95%;
     border-radius: 5px;
     box-shadow: 1px 1px 1px 0px;
-    margin: 10px;
+    margin: 20px;
 
 }
 
@@ -391,6 +395,7 @@ main {
 #bk_img_3 {
     height: 150Px;
     background: url("../images/pexels-about_sustainability.webp") no-repeat center center/cover;
+    background-position: 50% 70%;
 }
 
 
@@ -405,8 +410,8 @@ main {
 
 .about_type_2>div,
 .about_type_1 {
-    padding: 5px;
-    margin: 10px 2px;
+    padding: 20px;
+    margin: 10px 20px;
     background-color: #fdfdfd57;
 }
 
@@ -713,7 +718,7 @@ input {
     #bk_img_2,
     #bk_img_3 {
         width: 250%;
-        height: 200Px;
+        height: 18rem;
 
     }
 
