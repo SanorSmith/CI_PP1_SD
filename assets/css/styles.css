@@ -362,7 +362,6 @@ main {
 }
 
 
-
 .about_type_1,
 .about_type_2 {
     display: flex;
@@ -374,28 +373,30 @@ main {
 #bk_img_1,
 #bk_img_2,
 #bk_img_3 {
-    width: 95%;
+    height: 150Px;
+    width: 100%;    
     border-radius: 5px;
     box-shadow: 1px 1px 1px 0px;
-    margin: 20px;
+    
 
 }
 
 #bk_img_1 {
-    height: 150Px;
+    
     background: url("../images/pexels-about_our_mission.webp") no-repeat center center/cover;
+    
 }
 
 #bk_img_2 {
-    height: 150Px;
+    
     background: url("../images/pexels-about_our_approach.webp") no-repeat center center/cover;
-
+    
 }
 
 #bk_img_3 {
-    height: 150Px;
+    
     background: url("../images/pexels-about_sustainability.webp") no-repeat center center/cover;
-    background-position: 50% 70%;
+    
 }
 
 
@@ -721,6 +722,7 @@ input {
     #bk_img_3 {
         width: 250%;
         height: 18rem;
+        margin: 20px;
 
     }
 
