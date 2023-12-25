@@ -528,24 +528,26 @@ input {
 #info_times{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 #social_networks {
     display: flex;
     flex-direction: row;
     list-style-type: none;
-    justify-content: space-evenly;
+    justify-content: center;
     text-align: center;
-    padding: 20px 0;
+    padding: 5px 0;
+    
     
 }
 
 /* Styling social networks icons */
 #social_networks i {
-    font-size: 160%;
+    font-size: 2rem;
     padding: 5%;
     color: #2b2728;
+    margin: 15px;
 }
 
 
@@ -883,7 +885,7 @@ input {
 #footer_container {
    
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     
 }
 
@@ -892,9 +894,14 @@ input {
 }
 
 #social_networks {
-    flex-grow: 2;
+    flex-grow: 0;
     align-items: center;
     
+}
+
+#social_networks i {
+    font-size: 4rem;
+    margin: 25px;
 }
 
 
