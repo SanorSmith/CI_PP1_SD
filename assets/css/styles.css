@@ -33,7 +33,7 @@ h3 {
     font-family: "Rubik+Mono+One", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    
 }
 
 h2 {
@@ -169,10 +169,6 @@ main {
     box-shadow: 1px 2px 5px 1px;
 }
 
-#cover-text>h2,
-#cover-text h3 {
-    color: rgba(221, 216, 216, 0.7);
-}
 
 /* Services Section*/
 
