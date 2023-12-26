@@ -164,7 +164,7 @@ main {
     min-height: 100px;
     position: relative;
     top: 40%;
-    width: 50%;
+    width: 15rem;
     padding: 5%;
     
 }
@@ -553,6 +553,7 @@ input {
 
     #cover-text {
         font-size: 80%;
+        width: 20rem;
     }
 
     nav .links_s li a {
@@ -568,7 +569,8 @@ input {
 
     #cover-text {
         font-size: 90%;
-        width: 35%;
+        width: 25rem;      
+        
     }
 
     nav .links_s li a {
@@ -639,6 +641,8 @@ input {
 
     #cover-text {
         font-size: 120%;
+        width: 30rem;
+        
     }
 
     /* Services section */
@@ -853,7 +857,8 @@ input {
 
     #cover-text {
         font-size: 140%;
-        width: 40%;
+        width: 35rem;
+        
     }
 
     nav .links_s li a {
@@ -911,7 +916,7 @@ input {
 
     #cover-text {
         font-size: 140%;
-        width: 35%;
+        
     }
 
     nav .links_s li a {
