@@ -32,7 +32,7 @@ h2,
 h3 {
     font-family: "Rubik+Mono+One", sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     
 }
 
@@ -44,7 +44,7 @@ h2 {
 
 h3{
 
-    font-size:1.5em;
+    font-size:1.4em;
 
 }
 
@@ -407,7 +407,7 @@ main {
 #our_mission,
 #join_us {
     background-color: #fdfdfd57;
-    padding: 15px;
+    padding: 15px;    
 }
 
 
@@ -724,8 +724,12 @@ input {
         height: 15rem;
     }
 
+    #our_mission,
+    #join_us {
+        height: 26em;
+    }
     
-    /*View Our About sections pargraph horizontally*/
+    
     #sustainability {
         display: flex;
         flex-direction: row-reverse;
@@ -733,11 +737,7 @@ input {
         align-items: center;
     }
 
-    #ourmission{
-
-    }
-
-
+    
     #about_type_1>p {
         width: 100%;
         padding: 10%;
@@ -755,8 +755,13 @@ input {
         flex-direction: row;
         justify-content: space-around;
     }
-
-
+    
+    .about_type_2>div,
+    .about_type_1 {
+    padding: 5px;
+    margin: 10px 5px;
+    background-color: #fdfdfd57;
+}
 
 
 
@@ -895,6 +900,11 @@ input {
     #bk_img_2,
     #bk_img_3 {        
         height: 20rem;
+    }
+
+    #our_mission,
+    #join_us {
+        height: 35em;
     }
 
     /*Contact us*/
