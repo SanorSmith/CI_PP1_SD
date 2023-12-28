@@ -721,9 +721,7 @@ input {
     #bk_img_2,
     #bk_img_3 {
         width: 250%;
-        height: 10rem;
-        
-
+        height: 15rem;
     }
 
     
@@ -889,6 +887,14 @@ input {
         width: 100%;
 
 
+    }
+
+    /*About us*/
+
+    #bk_img_1,
+    #bk_img_2,
+    #bk_img_3 {        
+        height: 20rem;
     }
 
     /*Contact us*/
