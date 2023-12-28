@@ -39,6 +39,13 @@ h3 {
 h2 {
     color: #99051d;
     text-shadow: 1px 2px #000000;
+    font-size:1.5em;
+}
+
+h3{
+
+    font-size:1.5em;
+
 }
 
 /* Mobile devices */
@@ -190,8 +197,7 @@ main {
     padding: 15px;
 }
 
-.ser_style h3{
-    font-size:1.4rem ;        
+.ser_style h3{            
     text-align:left;
     padding: 20px 0;
 }
@@ -351,8 +357,7 @@ main {
 
 /* About Section */
 
-.about_container h3 {
-    font-size: 1.2rem;
+.about_container h3 {  
     padding: 5px 0;
     text-align: left;
 }
@@ -701,13 +706,7 @@ input {
     /* Re-adjust About us section to fit on tablet screen size*/
 
 
-    /*View About sections horizontally*/
-
-    .about_container h3 {
-        font-size: 1.6rem;
-        
-    }
-    
+    /*View About sections horizontally*/      
 
     .about_type_1 {
         display: flex;
@@ -724,12 +723,17 @@ input {
 
     }
 
-    /*View Sustainability pargraph div horizontally*/
+    
+    /*View Our About sections pargraph horizontally*/
     #sustainability {
         display: flex;
         flex-direction: row-reverse;
         justify-content: center;
         align-items: center;
+    }
+
+    #ourmission{
+
     }
 
 
@@ -753,6 +757,8 @@ input {
 
 
 
+
+
     /* Re-adjust Contact Us section to fit on tablet screen size*/
 
     #email_tel>div {
@@ -770,8 +776,7 @@ input {
     }
 
     #email_tel {
-        order: 2;
-        font-size: 150%;
+        order: 2;        
     }
 
     #adress {
@@ -883,7 +888,13 @@ input {
 
     }
 
-/*Footer*/
+    /*Contact us*/
+
+    #email_tel {
+        font-size: 1.5em;        
+    }
+
+    /*Footer*/
 #footer_container {
    
     flex-direction: row;
