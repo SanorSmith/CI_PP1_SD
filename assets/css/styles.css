@@ -358,8 +358,11 @@ main {
 /* About Section */
 
 .about_container h3 {  
-    padding: 5px 0;
+    padding: 5px 10px;
     text-align: left;
+}
+.about_container p {  
+    padding: 10px 10px;    
 }
 
 
@@ -718,8 +721,8 @@ input {
     #bk_img_2,
     #bk_img_3 {
         width: 250%;
-        height: 18rem;
-        margin: 20px;
+        height: 10rem;
+        
 
     }
 
