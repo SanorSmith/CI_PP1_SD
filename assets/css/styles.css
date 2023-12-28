@@ -36,7 +36,7 @@ h3 {
     
 }
 
-h1 {
+h1, h2 {
     color: #99051d;
     text-shadow: 1px 2px #000000;
     font-size:1.5em;
@@ -189,7 +189,7 @@ main {
 /* justify the Services paragraphs */
 #services,
 #ser_short p {
-    text-align: justify;
+    text-align: left;
 }
 
 /* Shape and Styling the images in section files */
@@ -425,16 +425,14 @@ main {
     padding: 5px 10px;
     border-color: #bebebe;
     background-color: #bebebe;
-    text-align: justify;
+    
 
 }
 
 /* contact us */
 
 
-#header_text>p {
-    text-align: justify;
-}
+
 
 #our_info_container {
     display: flex;
