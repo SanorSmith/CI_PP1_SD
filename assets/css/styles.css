@@ -169,11 +169,11 @@ main {
 #cover-text {
     background-color: rgba(36, 35, 33, 0.445);
     font-size: 60%;
-    min-height: 100px;
+    height: fit-content;
     position: relative;
     top: 40%;
-    width: 15rem;
-    padding: 5%;
+    width: fit-content;
+    padding: 3%;
     
 }
 
@@ -557,8 +557,7 @@ input {
 @media screen and (min-width: 400px) {
 
     #cover-text {
-        font-size: 80%;
-        width: 20rem;
+        font-size: 80%;        
     }
 
     nav .links_s li a {
@@ -573,9 +572,7 @@ input {
 @media screen and (min-width: 550px) {
 
     #cover-text {
-        font-size: 90%;
-        width: 25rem;      
-        
+        font-size: 90%;       
     }
 
     nav .links_s li a {
@@ -645,8 +642,7 @@ input {
     }
 
     #cover-text {
-        font-size: 120%;
-        width: 30rem;
+        font-size: 120%;        
         
     }
 
@@ -864,9 +860,7 @@ input {
     }
 
     #cover-text {
-        font-size: 140%;
-        width: 35rem;
-        
+        font-size: 140%;        
     }
 
     nav .links_s li a {
