@@ -50,6 +50,14 @@ h3{
 
 /* Mobile devices */
 
+/* Hero Background section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero.webp") no-repeat center center/cover;
+    
+}
+
 /* Header */
 #logo {
     position: relative;
@@ -158,18 +166,13 @@ main {
     flex: 10 0 auto;
 }
 
-/* Hero section */
-#hero {
-    height: 600px;
-    width: 100%;
-    background: url("../images/hero.webp") no-repeat center center/cover;
-}
+
 
 /* Style the cover text */
 #cover-text {
     background-color: rgba(36, 35, 33, 0.445);
     font-size: 60%;
-    height: fit-content;
+    height:fit-content;
     position: relative;
     top: 40%;
     width: fit-content;
