@@ -17,6 +17,7 @@
     box-sizing: border-box;
 }
 
+
 /* General styles */
 body {
     min-height: 100vh;
@@ -567,6 +568,8 @@ input {
 }
 
 
+
+
 /* Adjuste header elements to mobil/tablet devices screen*/
 @media screen and (min-width: 400px) {
 
@@ -861,6 +864,22 @@ input {
         position: absolute;
 
     }
+
+    /* 404 page */
+
+    #404_message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    position: fixed;
+    top: 5rem;
+    
+    
+}
 
 }
 
