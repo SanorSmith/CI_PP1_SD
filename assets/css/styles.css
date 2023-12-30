@@ -1,6 +1,11 @@
 /* Import Google fonts */
-@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rubik+Mono+One&family=Russo+One&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rubik+Mono+One&family=Russo+One&display=swap");*/
 
+/* Downloded fonts from google*/
+@font-face {
+    font-family: Oswald;
+    src: url(../fonts/Oswald-VariableFont_wght.ttf);
+}
 /* Asterisk wildcard selector to give the site default styles*/
 
 * {
