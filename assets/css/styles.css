@@ -536,15 +536,17 @@ input {
 /* Footer */
 #footer_container {
     display: flex;    
-    justify-content: space-between;
+    justify-content:center;
     background-color: rgb(238, 232, 232);
     padding-top: 10px;
+    
 }
 
 #info_times{
-    display: flex;
+    display: none;
     flex-direction: row;
     justify-content: space-between;
+    
 }
 
 #social_networks {
@@ -898,6 +900,15 @@ padding: 0.5rem;
         position: absolute;
 
     }
+    /* Footer */
+#footer_container {     
+    justify-content:space-between;   
+}
+
+#info_times{
+    display: flex;
+    width: 20rem;        
+}
 
     /* 404 page */
 
