@@ -525,9 +525,8 @@ input {
 
 /* Footer */
 #footer_container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    display: flex;    
+    justify-content: space-between;
     background-color: rgb(238, 232, 232);
     padding-top: 10px;
 }
@@ -545,6 +544,7 @@ input {
     justify-content: center;
     text-align: center;
     padding: 5px 0;
+    background-color: rgb(238, 232, 232);
     
     
 }
