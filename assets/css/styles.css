@@ -508,16 +508,15 @@ input {
 #button_center {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    flex-basis: content;
-    margin-bottom: 8%;
+    justify-content: start;
+    
+    margin: 3rem 3rem 3rem 0;
+}
+#button_center button{
+    width: 10rem;
+    height: 2rem;
 }
 
-#button_center>input {
-    width: 20%;
-    margin: 3% 0 0%;
-}
 
 #map {
     display: flex;
