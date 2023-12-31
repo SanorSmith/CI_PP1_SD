@@ -910,9 +910,9 @@ padding: 0.5rem;
         
     }
     /* Footer */
-#footer_container {     
-    justify-content:space-between;   
-}
+    #footer_container {     
+        justify-content:space-between;   
+    }
 
 #info_times{
     display: flex;
@@ -925,11 +925,7 @@ padding: 0.5rem;
         
         font-size: 2rem;
         
-    }   
-    #footer_container {     
-        justify-content:center;   
-    }
-
+    }      
     
 
 }
