@@ -917,6 +917,9 @@ padding: 0.5rem;
         font-size: 2rem;
         
     }   
+    #footer_container {     
+        justify-content:center;   
+    }
 
     
 
