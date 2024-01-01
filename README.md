@@ -367,10 +367,10 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-|   Navigation                    | The initial section's navigation bar, or 'hamburger' menu, allows you to access any section of the page. Users directed to their intended section. | Working as expected|
+|   Navigation                    | The initial section's navigation bar, or 'hamburger' menu, allows you to access any section of the page.| Users directed to their intended section. | Working as expected|
 |   Sticky NAV-Bar                            | The navigation bar remains fixed at the top of the screen, ensuring that users are smoothly directed to their desired page | Jump to desired page| Working as expected|
 |   Contact Us Section                     | Above the footer, users can click to initiate contact and submit their messages and details. | Efficiently reach out to the company, submit your message and relevant details." |Working as expected|
-|   Footer                              | At the bottom of the website, users can navigate and connect through social networks, offering additional avenues for user interaction and engagement with the company. | Working as expected |
+|   Footer                              | At the bottom of the website, users can navigate and connect through social networks |offering additional avenues for user interaction and engagement with the company. | Working as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story/user_stories-1.png ">
