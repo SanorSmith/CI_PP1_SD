@@ -471,9 +471,10 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 </details>
 
 10. As a returning user, I desire a satisfying website experience, allowing me to confidently recommend it to my friends.
+
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-|Navigation| Explore the entire website. | An easy-to-use and intuitive navigation system for users |Working as expected| 
+|Navigation| Explore the entire website| An easy-to-use and intuitive navigation system for users |Working as expected| 
 |Footer|Click and connect| encouragement to engage with at the conclusion of a website |Working as expected| 
 
 <details><summary>Screenshots</summary>
@@ -482,5 +483,6 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 <details><summary>Screenshots</summary>
 <img src="docs/user-story/user_stories-12.png">
 </details>
+
 [Back to top &uarr;](#SAVIN-DESIGN)
 
