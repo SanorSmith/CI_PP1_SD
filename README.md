@@ -146,9 +146,9 @@ A minimalist colour palette that gives the website a bright and uncluttered appe
 
 
 
-.
 
-![Colour](docs/features/Color_pallet.jpg)
+
+![Color](docs/features/Color_pallet.png)
 
 ### Fonts
 
