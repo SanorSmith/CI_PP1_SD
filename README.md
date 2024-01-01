@@ -367,9 +367,9 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-|   Navigation                    | The initial section's navigation bar, or 'hamburger' menu, allows you to access any section of the page. Users directed to their intended section. | Working as expected             |
+|   Navigation                    | The initial section's navigation bar, or 'hamburger' menu, allows you to access any section of the page. Users directed to their intended section. | Working as expected|
 |   Sticky NAV-Bar                            | The navigation bar remains fixed at the top of the screen, ensuring that users are smoothly directed to their desired page | Jump to desired page| Working as expected|
-|   Contact Us Section                     | Above the footer, users can click to initiate contact and submit their messages and details. | Efficiently reach out to the company, submit your message and relevant details." |
+|   Contact Us Section                     | Above the footer, users can click to initiate contact and submit their messages and details. | Efficiently reach out to the company, submit your message and relevant details." |Working as expected|
 |   Footer                              | At the bottom of the website, users can navigate and connect through social networks, offering additional avenues for user interaction and engagement with the company. | Working as expected |
 
 <details><summary>Screenshots</summary>
@@ -426,7 +426,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |About us section|Navigate to About us section|User can read brief info about company|Working as expected|
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user_stories-7.png">
+<img src="docs/user-story/user_stories-6.png">
 </details>
 
 6. As a returning user,I need the information I'm looking for to be easy to find as I remember. 
@@ -436,7 +436,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |Navigation|Use navigation for browsing trough website| Users can effortlessly and intuitively find their way to the desired section. |Working as expected| 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-stories-11.png">
+<img src="docs/user-story/user_stories-11.png">
 </details>
 
 7. As a returning user,I I aim to ensure that I can easily contact the company or return to the initial position within just few clicks.. 
@@ -446,7 +446,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |Navigate Anywhre|Click and go anywhere in the site|User can in every moment be taken to any section in the site (starting position)|Working as expected|
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-stories-2.png">
+<img src="docs/user-story/user_stories-2.png">
 </details>
 
 8. As a returning user,I want to find and connect with company on social media.
@@ -457,7 +457,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |Footer| Go to the footer section and select one of the social media icons. |User is taken to preferred  a social media platform|Working as expected|
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-stories-12.png">
+<img src="docs/user-story/user_stories-12.png">
 </details>
 
 9. As a returning user,I want to see all options that are available to me.
@@ -467,7 +467,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |Services section| Go to the Welcome and Our Services section | Users can reacquaint themselves with the available choices. |Working as expected| 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-stories-13.png">
+<img src="docs/user-story/user_stories-13.png">
 </details>
 
 10. As a returning user, I desire a satisfying website experience, allowing me to confidently recommend it to my friends.
@@ -477,10 +477,10 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |Footer|Click and connect| encouragement to engage with at the conclusion of a website. |Working as expected| 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-stories-1.png">
+<img src="docs/user-story/user_stories-1.png">
 </details>
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-story-12.png">
+<img src="docs/user-story/user_story-12.png">
 </details>
 [Back to top &uarr;](#SAVIN-DESIGN)
 
