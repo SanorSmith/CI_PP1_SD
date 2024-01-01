@@ -361,3 +361,126 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 
  [Back to top &uarr;](#SAVIN-DESIGN)
 
+ ### Testing user stories
+
+ 0. As a New User,I want to easily to navigate the entire website intuitively.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|   Navigation                    | The initial section's navigation bar, or 'hamburger' menu, allows you to access any section of the page. Users directed to their intended section. | Working as expected             |
+|   Sticky NAV-Bar                            | The navigation bar remains fixed at the top of the screen, ensuring that users are smoothly directed to their desired page | Jump to desired page| Working as expected|
+|   Contact Us Section                     | Above the footer, users can click to initiate contact and submit their messages and details. | Efficiently reach out to the company, submit your message and relevant details." |
+|   Footer                              | At the bottom of the website, users can navigate and connect through social networks, offering additional avenues for user interaction and engagement with the company. | Working as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user_stories-1.png ">
+</details>
+1. As a New User,I want to know what the company offers.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Servic Offers| Visit the service section, explore the available options, and take action with a simple click |It's up to the user to decide and contact. |Working as expected|
+| Design Images| Click to explore the company's offerings | Users have the option to select their preferred design. |Working as expected|
+| Gallery|Navigate to Gallery section| Examine the images more closely and gain a deeper understanding of certain designs through our service descriptions. |Working as expected|
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user_stories-5.png ">
+</details>
+
+2. As a New User,I review the company's vision and their approach to accomplishing design objectives.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Services| Visit the section to discover how we overcome obstacles and the strategies we employ to achieve optimal results | checking the company's objectives. |Working as expected|
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user_stories-6.png ">
+</details>
+
+
+3. As a new user, I seek the most efficient and fastest means of reaching out to the company.
+
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Contact us section|Click or Scroll to desired section| The user can view available contact options provided by the company, allowing them to make a choice. |Working as expected|
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user_stories-8.png ">
+</details>
+
+4. As a New User,I would like to find out the company's physical location..
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Contact us section with google map|User can click to see exact location |see precise location of company on a map,and address in info box below map|Working as expected| 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user_stories-7.png">
+</details>
+
+5. As a New User,Ivisit the section to discover the company overcome obstacles and the strategies we employ to achieve optimal results.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|About us section|Navigate to About us section|User can read brief info about company|Working as expected|
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user_stories-7.png">
+</details>
+
+6. As a returning user,I need the information I'm looking for to be easy to find as I remember. 
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Navigation|Use navigation for browsing trough website| Users can effortlessly and intuitively find their way to the desired section. |Working as expected| 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user-stories-11.png">
+</details>
+
+7. As a returning user,I I aim to ensure that I can easily contact the company or return to the initial position within just few clicks.. 
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Navigate Anywhre|Click and go anywhere in the site|User can in every moment be taken to any section in the site (starting position)|Working as expected|
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user-stories-2.png">
+</details>
+
+8. As a returning user,I want to find and connect with company on social media.
+
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Footer| Go to the footer section and select one of the social media icons. |User is taken to preferred  a social media platform|Working as expected|
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user-stories-12.jpg">
+</details>
+
+9. As a returning user,I want to see all options that are available to me.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Services section| Go to the Welcome and Our Services section | Users can reacquaint themselves with the available choices. |Working as expected| 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user-stories-13.png">
+</details>
+
+10. As a returning user, I desire a satisfying website experience, allowing me to confidently recommend it to my friends.
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|Navigation| Explore the entire website. | An easy-to-use and intuitive navigation system for users. |Working as expected| 
+|Footer|Click and connect| encouragement to engage with at the conclusion of a website. |Working as expected| 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user-stories-1.png">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/user-story/user-story-12.jpg">
+</details>
+[Back to top &uarr;](#SAVIN-DESIGN)
+
