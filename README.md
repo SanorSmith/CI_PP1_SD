@@ -286,3 +286,78 @@ Incorporated as a prominent navigation element on the website, this custom desig
 
 ![Footer](docs/features/footer.png)
 
+
+
+## Testing
+<hr>
+
+### HTML Validation
+Testing was conducted throughout the development process using Chrome Developer Tools and again upon project completion. The HTML of the website was validated using the W3C Markup Validation Service, and all code successfully passed without any errors.
+
+<details><summary>Index.html</summary>
+<img src="docs/validation/html-validator.jpg" alt="validation of index.html page">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/validation/404_html-validator.jpg" alt="validation of 404.html page">
+</details>
+
+[Back to top &uarr;](#SAVIN-DESIGN)
+
+### CSS Validation
+The CSS code of the website was tested using the W3C Jigsaw CSS Validation Service, which confirmed that the code was error-free.
+<details><summary>Css</summary>
+<img src="docs/validation/css-validator.jpg" alt="validation of css code">
+</details>
+
+
+### Accessibility
+
+We used  WAVE WebAIM web accessibility evaluation service to ensure the project's high standards regarding accessibility.
+<details><summary>Index</summary>
+<img src="docs/validation/wave_website_index.jpg" alt="accessibility evaluation of website">
+</details>
+<details><summary>Gallary</summary>
+<img src="docs/validation/wave_website_gallary.jpg" alt="accessibility evaluation of website">
+</details>
+<details><summary>404-page</summary>
+<img src="docs/validation/wave_website_404.jpg" alt="accessibility evaluation of 404.page">
+</details>
+
+### Performance
+I used Google Lighthouse in Google Chrome Developer Tools to test the performance of the project.
+
+<details><summary>Website-Index-mobile</summary>
+<img src="docs/validation/index_mobile_lighthouse_val.jpg">
+</details>
+<details><summary>Website-Gallary-mobile</summary>
+<img src="docs/validation/gallary_mobile_lighthouse_val.jpg">
+</details>
+
+<details><summary>Website-Index-desktop</summary>
+<img src="docs/validation/index_desktop_lighthouse_val.jpg">
+</details>
+<details><summary>Website-Gallary-desktop</summary>
+<img src="docs/validation/gallary_desktop_lighthouse_val.jpg">
+</details>
+
+<details><summary>404.page-mobile</summary>
+<img src="docs/validation/404_mobile_lighthouse_val.jpg">
+</details>
+<details><summary>404.page-desktop</summary>
+<img src="404_desktop_lighthouse_val.jpg">
+</details>
+
+### Device testing
+- Lenovo Legion T5AMR5
+- Samsung A52, Galaxy 20, Ultra 
+- Iphone 5,6,7,12,12pro,14Max-
+- Ipad Air,Pro
+ 
+ ### Browser Compatability 
+ - Project was developed in the Google Chrome browser and then tested in:
+ - Microsoft Edge
+ - Mozilla Firefox
+
+ [Back to top &uarr;](#SAVIN-DESIGN)
+
