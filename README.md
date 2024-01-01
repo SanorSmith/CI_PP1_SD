@@ -134,9 +134,9 @@ This project has been crafted to appeal to a diverse range of clients and potent
 
 ***
 
-- [Mobile-wireframes(pdf)](docs/wireframes/Mobile_Wireframe.pdf)
-- [Tablet-wireframes(pdf)](docs/wireframes/Tablet_Wireframe.pdf)
-- [Desktop-wireframes(pdf)](docs/wireframes/Desktop_Wireframe.pdf)
+- [Mobile-wireframes(pdf)](docs/wireframes/Mobile_Wireframes.pdf)
+- [Tablet-wireframes(pdf)](docs/wireframes/Tablet_Wireframes.pdf)
+- [Desktop-wireframes(pdf)](docs/wireframes/Desktop_Wireframes.pdf)
 
 
 ### Colour
@@ -148,7 +148,7 @@ A minimalist colour palette that gives the website a bright and uncluttered appe
 
 .
 
-![Colour](docs/features/color-pallet.jpg)
+![Colour](docs/features/Color_pallet.jpg)
 
 ### Fonts
 
@@ -160,7 +160,7 @@ Google fonts are used as follows:
 
 •  The contact form utilizes the Font Awesome 6, which has been imported into the html through java-script. This font family was chosen for its excellent readability.
 
-![ Font Awesome 6](docs/features/Font Awesome_6-1.jpg)
+![ Font Awesome 6](docs/features/Font_Awesome_6-1.jpg)
 ![ Font Awesome 6](docs/features/Font_Awesome_6-2.jpg)
 
 
