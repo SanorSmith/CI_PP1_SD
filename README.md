@@ -233,6 +233,7 @@ Incorporated as a prominent navigation element on the website, this custom desig
 
 
 ![navigation](docs/features/navigation-bar.png)
+<hr>
 ![navigation](docs/features/navigation-mobile.jpg)
 
 ### Welcome and Our services section
@@ -241,7 +242,9 @@ Incorporated as a prominent navigation element on the website, this custom desig
 
 
 ![services-section](docs/features/service_section_1.jpg)
+<hr>
 ![services-section](docs/features/service_section_2.jpg)
+<hr>
 ![services-section](docs/features/service_section_3.jpg)
 
 ### Gallery
@@ -253,8 +256,10 @@ Incorporated as a prominent navigation element on the website, this custom desig
 
 
 ![Gallery](docs/features/gallary_section_1.jpg)
+<hr>
 
 ![Gallery](docs/features/gallary_section_2.jpg)
+<hr>
 
 ![Gallery](docs/features/gallary_section_3.jpg)
 
@@ -279,4 +284,5 @@ Incorporated as a prominent navigation element on the website, this custom desig
 - Comprises three components: the company's logo (which links back to the top of the page), a social media section (with links for connecting with the company), and a trademark section (displaying the developer's name and the year the project was developed).
 - These elements are efficiently organized and presented using CSS Flexbox.
 
-![Footer](docs/features/footer.jpg)
+![Footer](docs/features/footer.png)
+
