@@ -148,7 +148,7 @@ A minimalist colour palette that gives the website a bright and uncluttered appe
 
 
 
-![Color](docs/features/color_pallet.png)
+![Color](docs/features/color_pallete.png)
 
 ### Fonts
 
