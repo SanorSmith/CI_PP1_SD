@@ -208,3 +208,37 @@ The website is designed to be intuitive, user-friendly, and familiar, structured
 - Grammarly
 
 [Back to top &uarr;](#SAVIN DESIGN)
+
+## Features
+<hr> company 
+
+### Existing Features
+
+### Favicon
+A small icon or a set of icons associated with a website, web page, or web application, in this instance represented by a custom-designed logo specific to the architectural company.
+![Favicon](docs/features/Favicon.jpg)
+ 
+
+### Logo
+Incorporated as a prominent navigation element on the website, this custom design was personally created by me using Photoshop.
+![logo](docs/features/logo.jpg)
+
+
+### Navigation
+- Two distinct navigation types (for mobile and desktop):
+- Both navigation systems are user-friendly, intuitive, and adaptable to all screen sizes. They feature a hamburger menu for mobile devices and screens up to 768px, and a sticky navigation bar for screens larger than 768px. This setup, with links to specific sections, offers users a clear and straightforward way to navigate the website. For the desktop version, the links are underlined and increase in size upon hover, enhancing user interaction.
+- User story addressed: 0, 7, 8.
+
+
+![navigation](docs/features/navigation-bar.png)
+![navigation](docs/features/navigation-mobile.jpg)
+
+### Welcome and Our services section
+- These six sections feature with six images accompanied by text that introduces the user to the company and the services offered.
+- The arrangement of these images is achieved using CSS Flexbox.
+
+
+![services-section](docs/features/Service_section_1.jpg)
+![services-section](docs/features/Service_section_2.jpg)
+![services-section](docs/features/Service_section_3.jpg)
+
