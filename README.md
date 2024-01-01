@@ -156,7 +156,8 @@ Google fonts are used as follows:
 
 
 • The website primarily employs the Oswald sans-serif font, which is integrated into the CSS file using the @import method. However, to enhance site performance, we opt to download it and link it through @font-face class. This font was selected for its compatibility with web body text, ensuring readability even at small sizes.
-![ font Oswald sans-serif](docs/features/ font_Oswald_sans-serif.jpg)
+
+![ font Oswald sans-serif](docs/features/font_Oswald_sans-serif.jpg)
 
 •  The contact form utilizes the Font Awesome 6, which has been imported into the html through java-script. This font family was chosen for its excellent readability.
 
