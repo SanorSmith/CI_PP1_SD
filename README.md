@@ -345,7 +345,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 <img src="docs/validation/404_mobile_lighthouse_val.jpg">
 </details>
 <details><summary>404.page-desktop</summary>
-<img src="404_desktop_lighthouse_val.jpg">
+<img src="docs/validation/404_desktop_lighthouse_val.jpg">
 </details>
 
 ### Device testing
