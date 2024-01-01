@@ -57,21 +57,21 @@ SAVIN will be announced in 2024 by Sanor Smith and Sharmen Bilbas, the company w
 - To find an architectural company that provides efficient, safe, and high-quality services.
 - Seek a comprehensive overview of the company's offerings.
 - Transparent and clear pricing for all services.
-•	Easily accessible information about the company.
-•	Clearly displayed location of the architectural firm.
-•	Conveniently available contact information for the business.
-•	Multiple options for communication and connection with the company.
+- Easily accessible information about the company.
+- Clearly displayed location of the architectural firm.
+- Conveniently available contact information for the business.
+- Multiple options for communication and connection with the company.
 
 
 ### Company Objectives
 
-•	Market and promote the architectural services effectively.
-•	Attract and increase the clientele base with innovative strategies.
-•	Grow and develop the architectural business.
-•	Deliver exceptional services tailored to diverse client needs.
-•	Offer accessible and prompt information about the firm to prospective clients.
-•	Establish a unique identity and stand out from other architectural competitors.
-•	Add significant value to clients and the architectural industry.
+- Market and promote the architectural services effectively.
+- Attract and increase the clientele base with innovative strategies.
+- Grow and develop the architectural business.
+- Deliver exceptional services tailored to diverse client needs.
+- Offer accessible and prompt information about the firm to prospective clients.
+- Establish a unique identity and stand out from other architectural competitors.
+- Add significant value to clients and the architectural industry.
 
 
 [Back to top &uarr;](#SAVIN DESIGN)
@@ -79,40 +79,40 @@ SAVIN will be announced in 2024 by Sanor Smith and Sharmen Bilbas, the company w
 User Experience (UX)
 ### Intended audience
 
-•	New clients interested in architectural services.
-•	Experienced individuals or entities in need of advanced architectural expertise.
-•	Repeat clients who appreciate the value and service provided by the architectural firm.
+- New clients interested in architectural services.
+- Experienced individuals or entities in need of advanced architectural expertise.
+- Repeat clients who appreciate the value and service provided by the architectural firm.
 
 ### User Requirements and Expectations
 
-•	Concise and well-organized content tailored for architectural interests.
-•	User-friendly and straightforward navigation system.
-•	Fully functional website with all features operating seamlessly.
-•	Aesthetically pleasing design that showcases architectural elegance.
-•	Website accessibility on various devices and screen sizes.
-•	Straightforward and effortless methods for contacting the architectural firm.
+- Concise and well-organized content tailored for architectural interests.
+- User-friendly and straightforward navigation system.
+- Fully functional website with all features operating seamlessly.
+- Aesthetically pleasing design that showcases architectural elegance.
+- Website accessibility on various devices and screen sizes.
+- Straightforward and effortless methods for contacting the architectural firm.
 
 ### User Stories
 
 ####  New(First-time) User
 
 New(First-time) User
-• As a new user, I want to easily navigate the website.
-• As a new user, I want to understand the company's offerings.
-• As a new user, I want to know the pricing of the company's services.
-• As a new user, I want to discover the most efficient way to contact the company.
-• As a new user, I want to find information about the company's location.
-• As a new user, I want to learn about the company's history and how long it has been in existence.
-• As a new user, I want to get a sense of what it's like to use one or more of the services.
-• As a new user, I want to see the design of completed projects.
+- As a new user, I want to easily navigate the website.
+- As a new user, I want to understand the company's offerings.
+- As a new user, I want to know the pricing of the company's services.
+- As a new user, I want to discover the most efficient way to contact the company.
+- As a new user, I want to find information about the company's location.
+- As a new user, I want to learn about the company's history and how long it has been in existence.
+- As a new user, I want to get a sense of what it's like to use one or more of the services.
+- As a new user, I want to see the design of completed projects.
 
 #### Returning User
-•	As a returning client, I need to easily find information on the architectural firm's website as per my previous experience.
-•	As a returning client, I desire easy and quick access to contact the company or to navigate back to the homepage.
-•	As a returning client, I aim to find and connect with the architectural company on social media platforms.
-•	As a returning client, I am interested in learning more about the architectural team and their qualifications.
-•	As a returning client, I wish to explore all available service options offered by the architectural firm.
-•	As a returning client, I desire a seamless website experience that I can confidently recommend to my associates.
+- As a returning client, I need to easily find information on the architectural firm's website as per my previous experience.
+- As a returning client, I desire easy and quick access to contact the company or to navigate back to the homepage.
+- As a returning client, I aim to find and connect with the architectural company on social media platforms.
+- As a returning client, I am interested in learning more about the architectural team and their qualifications.
+- As a returning client, I wish to explore all available service options offered by the architectural firm.
+- As a returning client, I desire a seamless website experience that I can confidently recommend to my associates.
 
 
 
@@ -155,11 +155,11 @@ A minimalist colour palette that gives the website a bright and uncluttered appe
 Google fonts are used as follows:
 
 
-• The website primarily employs the Oswald sans-serif font, which is integrated into the CSS file using the @import method. However, to enhance site performance, we opt to download it and link it through @font-face class. This font was selected for its compatibility with web body text, ensuring readability even at small sizes.
+- The website primarily employs the Oswald sans-serif font, which is integrated into the CSS file using the @import method. However, to enhance site performance, we opt to download it and link it through @font-face class. This font was selected for its compatibility with web body text, ensuring readability even at small sizes.
 
 ![ font Oswald sans-serif](docs/features/font_Oswald_sans-serif.jpg)
 
-•  The contact form utilizes the Font Awesome 6, which has been imported into the html through java-script. This font family was chosen for its excellent readability.
+- The contact form utilizes the Font Awesome 6, which has been imported into the html through java-script. This font family was chosen for its excellent readability.
 
 ![ Font Awesome 6](docs/features/Font_Awesome_6-1.jpg)
 ![ Font Awesome 6](docs/features/Font_Awesome_6-2.jpg)
@@ -169,17 +169,17 @@ Google fonts are used as follows:
 
 The website is designed to be intuitive, user-friendly, and familiar, structured as a single landing page segmented into distinct sections. Navigation is tailored separately for mobile and desktop screens, following standard industry practices. The website is divided into six separate sections as follows:
 
-•	Main Section: This is the idol section with an engaging image, dual navigation tailored to screen size, a welcoming introduction, and a brief overview of the architectural firm.
+- Main Section: This is the idol section with an engaging image, dual navigation tailored to screen size, a welcoming introduction, and a brief overview of the architectural firm.
 
-•	Projects Section: Showcasing three different types of architectural services or projects for clients to explore.
+- Projects Section: Showcasing three different types of architectural services or projects for clients to explore.
 
-•	Portfolio Section: A carousel feature displaying a selection of the firm's past architectural projects.
+- Portfolio Section: A carousel feature displaying a selection of the firm's past architectural projects.
 
-•	Gallery Section: Images that highlight the firm's architectural achievements and project snapshots.
+- Gallery Section: Images that highlight the firm's architectural achievements and project snapshots.
 
-•	About Us Section: Detailed information about the architectural company, its history, and philosophy.
+- About Us Section: Detailed information about the architectural company, its history, and philosophy.
 
-•	Contact Us Section: Essential contact information, an inquiry form, and an integrated Google Maps feature pinpointing the firm’s location.
+- Contact Us Section: Essential contact information, an inquiry form, and an integrated Google Maps feature pinpointing the firm’s location.
 
 
 
