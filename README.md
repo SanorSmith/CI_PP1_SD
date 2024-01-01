@@ -457,7 +457,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 |Footer| Go to the footer section and select one of the social media icons. |User is taken to preferred  a social media platform|Working as expected|
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-stories-12.jpg">
+<img src="docs/user-story/user-stories-12.png">
 </details>
 
 9. As a returning user,I want to see all options that are available to me.
@@ -480,7 +480,7 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 <img src="docs/user-story/user-stories-1.png">
 </details>
 <details><summary>Screenshots</summary>
-<img src="docs/user-story/user-story-12.jpg">
+<img src="docs/user-story/user-story-12.png">
 </details>
 [Back to top &uarr;](#SAVIN-DESIGN)
 
