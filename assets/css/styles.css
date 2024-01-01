@@ -444,9 +444,6 @@ main {
 
 /* contact us */
 
-
-
-
 #our_info_container {
     display: flex;
     flex-direction: column;
@@ -617,9 +614,7 @@ padding: 0.5rem;
         font-size: 180%;
     }
 
-
 }
-
 
 /* Adjuste header elements to mobile/tablet devices screen*/
 @media screen and (min-width: 550px) {
@@ -640,6 +635,91 @@ padding: 0.5rem;
         grid-auto-flow:dense;
     }
 
+    /* Re-adjust Contact Us section to fit on tablet screen size*/
+
+    #email_tel>div {
+        display: flex;
+        flex-direction: row;
+        height: 30px;
+        padding: 1% 0;
+    }
+
+    /* contact us viewing order */
+    #our_info_container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #email_tel {
+        order: 2;        
+    }
+
+    #adress {
+        order: 1;
+    }
+
+    #open_hour {
+        order: 3;
+    }
+
+        /* Re-form User contact input for tablets */
+
+
+        #contact_container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            justify-items: center;
+            width: 100%;
+            border: solid #bebebe;
+            padding: 10px;
+        }
+    
+        #Info_label_boxs label,
+        input {
+            display: flex;
+            flex-direction: column;
+            width: 90%;
+        }
+    
+        input {
+            height: 30px;
+            border-color: #bebebe;
+        }
+    
+        form {
+            width: 50%;
+        }
+    
+        #client_message {
+            width: 90%;
+        }
+    
+        #map {
+            overflow: hidden;
+            
+            margin: 1rem 0 1rem 1rem;
+            position: relative;
+            height: auto;
+            width: 50%;
+        }
+    
+        #map>iframe {
+            left: 0;
+            top: 0;
+            height: 94%;
+            width: 100%;
+            position: absolute;
+            
+    
+        }
+    
+    
+        #form_map_container {
+            display: flex;
+            
+        }
 
 }
 
@@ -816,90 +896,6 @@ padding: 0.5rem;
 
 
 
-    /* Re-adjust Contact Us section to fit on tablet screen size*/
-
-    #email_tel>div {
-        display: flex;
-        flex-direction: row;
-        height: 30px;
-        padding: 1% 0;
-    }
-
-    /* contact us viewing order */
-    #our_info_container {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-
-    #email_tel {
-        order: 2;        
-    }
-
-    #adress {
-        order: 1;
-    }
-
-    #open_hour {
-        order: 3;
-    }
-
-    /* Re-form User contact input for tablets */
-
-
-    #contact_container {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        justify-items: center;
-        width: 100%;
-        border: solid #bebebe;
-        padding: 10px;
-    }
-
-    #Info_label_boxs label,
-    input {
-        display: flex;
-        flex-direction: column;
-        width: 90%;
-    }
-
-    input {
-        height: 30px;
-        border-color: #bebebe;
-    }
-
-    form {
-        width: 50%;
-    }
-
-    #client_message {
-        width: 90%;
-    }
-
-    #map {
-        overflow: hidden;        
-        margin: 1rem 0 1rem 1rem;
-        position: relative;
-        height: auto;
-        width: 50%;
-    }
-
-    #map>iframe {
-        left: 0;
-        top: 0;
-        height: 94%;
-        width: 100%;
-        position: absolute;
-        
-
-    }
-
-
-    #form_map_container {
-        display: flex;
-        
-    }
     /* Footer */
     #footer_container {     
         justify-content:space-between;   
