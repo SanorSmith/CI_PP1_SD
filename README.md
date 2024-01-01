@@ -1,4 +1,4 @@
-# SAVIN DESIGN
+# SAVIN-DESIGN
 (Developer: Sanor Smith)
 
 ![Mockup image](docs/validation/am_i_responsive.png)
@@ -74,7 +74,7 @@ SAVIN will be announced in 2024 by Sanor Smith and Sharmen Bilbas, the company w
 - Add significant value to clients and the architectural industry.
 
 
-[Back to top &uarr;](#SAVIN DESIGN)
+[Back to top &uarr;](#SAVIN-DESIGN)
 
 User Experience (UX)
 ### Intended audience
@@ -118,7 +118,7 @@ New(First-time) User
 
 
 
-[Back to top &uarr;](#SAVIN DESIGN)
+[Back to top &uarr;](#SAVIN-DESIGN)
 
 ## Design
 <hr>
@@ -134,9 +134,9 @@ This project has been crafted to appeal to a diverse range of clients and potent
 
 ***
 
-- [Mobile-wireframes(pdf)](docs/wireframes/Mobile_Wireframes.pdf)
-- [Tablet-wireframes(pdf)](docs/wireframes/Tablet_Wireframes.pdf)
-- [Desktop-wireframes(pdf)](docs/wireframes/Desktop_Wireframes.pdf)
+- [Mobile-wireframes(pdf)](docs/wireframes/mobile_wireframes.pdf)
+- [Tablet-wireframes(pdf)](docs/wireframes/tablet_wireframes.pdf)
+- [Desktop-wireframes(pdf)](docs/wireframes/desktop_wireframes.pdf)
 
 
 ### Colour
@@ -148,7 +148,7 @@ A minimalist colour palette that gives the website a bright and uncluttered appe
 
 
 
-![Color](docs/features/Color_pallet.png)
+![Color](docs/features/color_pallet.png)
 
 ### Fonts
 
@@ -157,12 +157,12 @@ Google fonts are used as follows:
 
 - The website primarily employs the Oswald sans-serif font, which is integrated into the CSS file using the @import method. However, to enhance site performance, we opt to download it and link it through @font-face class. This font was selected for its compatibility with web body text, ensuring readability even at small sizes.
 
-![ font Oswald sans-serif](docs/features/font_Oswald_sans-serif.jpg)
+![ font Oswald sans-serif](docs/features/font_oswald_sans-serif.jpg)
 
 - The contact form utilizes the Font Awesome 6, which has been imported into the html through java-script. This font family was chosen for its excellent readability.
 
-![ Font Awesome 6](docs/features/Font_Awesome_6-1.jpg)
-![ Font Awesome 6](docs/features/Font_Awesome_6-2.jpg)
+![ Font Awesome 6](docs/features/font_awesome_6-1.jpg)
+![ Font Awesome 6](docs/features/font_awesome_6-2.jpg)
 
 
 ### Structure
@@ -207,7 +207,7 @@ The website is designed to be intuitive, user-friendly, and familiar, structured
 - Archicad
 - Grammarly
 
-[Back to top &uarr;](#SAVIN DESIGN)
+[Back to top &uarr;](#SAVIN-DESIGN)
 
 ## Features
 <hr> company 
@@ -216,11 +216,13 @@ The website is designed to be intuitive, user-friendly, and familiar, structured
 
 ### Favicon
 A small icon or a set of icons associated with a website, web page, or web application, in this instance represented by a custom-designed logo specific to the architectural company.
-![Favicon](docs/features/Favicon.jpg)
+
+![Favicon](docs/features/favicon.jpg)
  
 
 ### Logo
 Incorporated as a prominent navigation element on the website, this custom design was personally created by me using Photoshop.
+
 ![logo](docs/features/logo.jpg)
 
 
@@ -238,7 +240,43 @@ Incorporated as a prominent navigation element on the website, this custom desig
 - The arrangement of these images is achieved using CSS Flexbox.
 
 
-![services-section](docs/features/Service_section_1.jpg)
-![services-section](docs/features/Service_section_2.jpg)
-![services-section](docs/features/Service_section_3.jpg)
+![services-section](docs/features/service_section_1.jpg)
+![services-section](docs/features/service_section_2.jpg)
+![services-section](docs/features/service_section_3.jpg)
 
+### Gallery
+- This section showcases fifteen images of 3D design models and completed projects undertaken by the company, providing users with insights into the company's work.
+- The layout of these images is created using CSS Flexbox, ensuring high responsiveness across all devices.
+
+
+
+
+
+![Gallery](docs/features/gallary_section_1.jpg)
+
+![Gallery](docs/features/gallary_section_2.jpg)
+
+![Gallery](docs/features/gallary_section_3.jpg)
+
+### About us 
+- Additional details about the company are complemented by three four divisions, three of them displaying images along with a brief description of their role and experience.
+- The layout of these images is created using multiple CSS Flexgrid, ensuring high responsiveness across all devices.
+
+![About us](docs/features/about_us_section_1.jpg)
+
+![About us](docs/features/about_us_section_2.jpg)
+
+![About us](docs/features/about_us_section_3.jpg)
+
+
+### Contact us
+- In this section, users have multiple options to reach out to the company, including a contact form, an embedded Google map showing the company's location, and three information boxes for the address, phone number, and email.
+- These elements are neatly displayed using CSS Flexbox.
+
+![Contact us](docs/features/contact_us_section_1.jpg)
+
+### Footer
+- Comprises three components: the company's logo (which links back to the top of the page), a social media section (with links for connecting with the company), and a trademark section (displaying the developer's name and the year the project was developed).
+- These elements are efficiently organized and presented using CSS Flexbox.
+
+![Footer](docs/features/footer.jpg)
