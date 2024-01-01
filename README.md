@@ -54,8 +54,8 @@ SAVIN will be announced in 2024 by Sanor Smith and Sharmen Bilbas, the company w
 ***
 
 ### User Goals
-•	To find an architectural company that provides efficient, safe, and high-quality services.
-•	Seek a comprehensive overview of the company's offerings.
+•To find an architectural company that provides efficient, safe, and high-quality services.
+•Seek a comprehensive overview of the company's offerings.
 •	Transparent and clear pricing for all services.
 •	Easily accessible information about the company.
 •	Clearly displayed location of the architectural firm.
