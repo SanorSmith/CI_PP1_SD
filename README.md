@@ -242,9 +242,13 @@ Incorporated as a prominent navigation element on the website, this custom desig
 
 
 ![services-section](docs/features/service_section_1.jpg)
+
 <hr>
+
 ![services-section](docs/features/service_section_2.jpg)
+
 <hr>
+
 ![services-section](docs/features/service_section_3.jpg)
 
 ### Gallery
