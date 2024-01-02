@@ -547,3 +547,9 @@ Here are the steps to clone a GitHub repository:
 
 ## Credits
 
+***
+### Media
+Images:
+- [Favicon and Logo]( assets/images/SD_logo.webp): photo by <a href="https://raw.githubusercontent.com/SanorSmith/CI_PP1_SD/main/assets/images/SD_logo.webp">Sanor Smith </a>
+- [hero-img](assets/images/hero-img-medium-pexels-saeid-anvar.webp): photo by <a href="https://pixabay.com/users/marcvanduffel-1254390/">MarcVanduffel</a> on <a href="https://pixabay.com/">Pixabay</a>
+
