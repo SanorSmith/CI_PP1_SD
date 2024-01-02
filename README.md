@@ -550,6 +550,46 @@ Here are the steps to clone a GitHub repository:
 ***
 ### Media
 Images:
-- [Favicon and Logo]( assets/images/SD_logo.webp): photo by <a href="https://raw.githubusercontent.com/SanorSmith/CI_PP1_SD/main/assets/images/SD_logo.webp">Sanor Smith </a>
+- [Favicon and Logo](assets/images/SD_logo.webp): photo by Sanor Smith
 - [hero-img](assets/images/hero-img-medium-pexels-saeid-anvar.webp): photo by <a href="https://pixabay.com/users/marcvanduffel-1254390/">MarcVanduffel</a> on <a href="https://pixabay.com/">Pixabay</a>
+- [Services-section-img1](assets/images/pexels-ser_1.webp): photo by <a href="https://www.pexels.com/@thirdman/">Thirdman</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Services-img2](assets/images/pexels-ser_2.webp): photo by <a href="https://www.pexels.com/@mikael-blomkvist/">Mikael Blomkvist</a> on <a href="">Pexels</a>
+- [Services-section-img3](assets/images/pexels-ser_3.webp): photo by <a href="https://www.pexels.com/@houzlook/"></a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Services-section-img4](assets/images/pexels-ser_4.webp): photo by <a href="https://www.pexels.com/@lucky-3592812/"></a> on <a href=" https://www.pexels.com "> Pexel</a>
+- [Services-section-img5](assets/images/pexels-ser_5.webp): photo by <a href="https://www.pexels.com/@mikael-blomkvist/">Mikael Blomkvist</a> on <a href="">Pexels</a>
+- [Services-section-img6](assets/images/pexels-ser_6.webp): photo by <a href="https://www.pexels.com/@pixabay/"> Pixabay </a> on <a href="">Pexels</a>
+- [About_us-section-img1]( assets/images/pexels-about_our_mission.webp): photo by <a href="https://www.pexels.com/@omarhouc/">Omar Houchaimi</a> on <a href="">Pexels</a>
+- [About_us-section-img2](assets/images/pexels-about_our_approach.webp): photo by <a href=" https://www.pexels.com/@shvets-production/"> SHVETS production </a> on <a href="">Pexels</a>
+- [About_us-section-img3](assets/images/pexels-about_sustainability.webp): photo by <a href=" https://www.pexels.com/@gustavo-fring/"> Gustavo Fring </a> on <a href="">Pexels</a>
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+- [gallery-section-img1]( assets/images/pro_ 1.webp): photo by photo by Sanor Smith
+
+
+- [gallery-section-img8](assets/images/pro_ 8.webp): photo by <a href="https://www.pexels.com/@yentl-jacobs-43020/">Yentl jacobs
+  </a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img9](assets/images/pro_ 9.webp): photo by <a href="https://www.pexels.com/@rickyrecap/">Ricky Esquivel</a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img10](assets/images/pro_ 10.webp): photo by <a href="https://www.pexels.com/@sebastiaan9977/">Sebastiaan Stam</a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img11](assets/images/pro_ 11.webp): photo by <a href="https://www.pexels.com/@laup/">Paul Volkmer</a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img12](assets/images/pro_ 12.webp): photo by <a href="https://www.pexels.com/@psad/">David Yu</a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img13](assets/images/pro_ 13.webp): photo by <a href="https://www.pexels.com/@chetanvlad/">Vlad Chețan</a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img14](assets/images/pro_ 14.webp): photo by <a href="https://www.pexels.com/@jonas/">Jonas Ferlin</a> on <a href="https://www.pexels.com">Pexel</a>
+- [gallery-section-img15](assets/images/pro_ 15.webp): photo by <a href="https://www.pexels.com/@athena/">Athena</a> on <a href="https://www.pexels.com">Pexel</a>
+
+### code:
+- The project's custom images were created using the [squoosh.app]( https://squoosh.app/) website.
+- To implement Flexbox and CSS Grid, I referred to video tutorials by [Slaying The Dragon]( https://www.youtube.com/@slayingthedragon).
+- I developed the 404 page by following the steps and guidance provided in [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
+[Back to top &uarr;](#surf-on)
+## Acknowledgements
+
+***
+I'd like to take a moment to express my gratitude to the individuals listed below: 
+- I would like to express my gratitude to my mentor, Mo Shami, for providing valuable feedback, offering advice, providing guidance, and offering unwavering support.
+- I want thank my wife, Sharmen, who is a Senior Architect, for her unwavering support and understanding throughout the development of this project.
+- To the wonderful people within the Code Institute Slack community who generously offer peer code reviews.
 
