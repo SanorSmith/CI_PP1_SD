@@ -496,13 +496,9 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 | **Bug**                     | **Fix**                          
 |-------------------------------------|--------------------------------------------------------------------------------------|
 |The Wave validator identifies errors related to empty links, such as those found in the footer for social media links that use Font Awesome icons| To tackle this problem, contemplate incorporating an "aria-label" attribute into the links. This action will enhance accessibility for assistive technologies and guarantee that crucial information remains accessible to all users.| 
-
 |The lighthouse validator exhibited subpar performance when it came to loading font links from Google Fonts. It took an extended amount of time for these fonts to load on web pages.|To address this problem, I resolved it by downloading the font from Google Fonts, uploading it to the server, and subsequently linking it through the use of the @font-face CSS class across all webpages.|
-
 |Occasionally, paragraphs contain numerous extra spaces between words. The Wave validator has detected this issue in several paragraphs|Remove "text-align=justify". Resolved through trial and error. |
-
 |The Lighthouse validator identified oversized images, which resulted in poor performance signals.|To improve this, I reduced the resolution and dimensions of the images using Photoshop. Afterward, I utilized the Squoosh website to convert the image type to Webp and compress the images. |
-
 |The Wave validator detected a header sequence error in the H1 text within the hero title (where a label tag was initially used for the title).|To address this issue, I had to change the label tag to an H1 tag. |
 
 ## Deployment
