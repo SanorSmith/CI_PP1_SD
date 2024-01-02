@@ -490,3 +490,9 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 
 [Back to top &uarr;](#SAVIN-DESIGN)
 
+## Bugs
+
+***
+| **Bug**                     | **Fix**                          
+|-------------------------------------|--------------------------------------------------------------------------------------|
+|The Wave validator identifies errors related to empty links, such as those found in the footer for social media links that use Font Awesome icons| To tackle this problem, contemplate incorporating an "aria-label" attribute into the links. This action will enhance accessibility for assistive technologies and guarantee that crucial information remains accessible to all users.| 
