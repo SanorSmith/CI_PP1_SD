@@ -496,3 +496,60 @@ I used Google Lighthouse in Google Chrome Developer Tools to test the performanc
 | **Bug**                     | **Fix**                          
 |-------------------------------------|--------------------------------------------------------------------------------------|
 |The Wave validator identifies errors related to empty links, such as those found in the footer for social media links that use Font Awesome icons| To tackle this problem, contemplate incorporating an "aria-label" attribute into the links. This action will enhance accessibility for assistive technologies and guarantee that crucial information remains accessible to all users.| 
+
+|The lighthouse validator exhibited subpar performance when it came to loading font links from Google Fonts. It took an extended amount of time for these fonts to load on web pages.|
+|To address this problem, I resolved it by downloading the font from Google Fonts, uploading it to the server, and subsequently linking it through the use of the @font-face CSS class across all webpages.|
+
+|Occasionally, paragraphs contain numerous extra spaces between words. The Wave validator has detected this issue in several paragraphs|Remove "text-align=justify". Resolved through trial and error. |
+
+|The Lighthouse validator identified oversized images, which resulted in poor performance signals.|To improve this, I reduced the resolution and dimensions of the images using Photoshop. Afterward, I utilized the Squoosh website to convert the image type to Webp and compress the images. |
+
+|The Wave validator detected a header sequence error in the H1 text within the hero title (where a label tag was initially used for the title). |
+|To address this issue, I had to change the label tag to an H1 tag. |
+
+## Deployment
+
+***
+### Setting up GitHub Pages Deployment
+To deploy the live website on GitHub Pages:
+
+1. Log in to GitHub.
+
+2. Go to the project repository [CI_PP1_SD]( https://github.com/SanorSmith/CI_PP1_SD).
+
+3. Open the "Settings" tab.
+
+4. Click on "Pages" in the left-hand navigation.
+
+5. Under "Source," select "Branch: master."
+
+6. Click "Save," and your site will be published at https://sanorsmith.github.io/CI_PP1_SD/.
+
+### Local Development
+
+#### How to Create a Fork of a Repository
+You can create a fork of the repository by following these steps:
+1. Go to the GitHub repository for the project [CI_PP1_SD]( https://github.com/SanorSmith/CI_PP1_SD)
+2. In the upper right-hand corner, locate the "Fork" button and click on it. 
+
+ #### How to Clone
+
+Here are the steps to clone a GitHub repository:
+
+1. Navigate to GitHub repository [CI_PP1_SD]( https://github.com/SanorSmith/CI_PP1_SD) .
+
+2. Find the "Code" green button above the file list, and click on it.
+
+3. Choose your preferred cloning method (HTTPS, SSH, or GitHub CLI) and click the copy button to copy the URL to your clipboard.
+
+4. Open Git Bash.
+
+5. Change your current working directory to the location where you want to create the cloned directory.
+
+6. Enter the command "git clone" and paste the copied URL from the clipboard (e.g., $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY).
+
+7. Press Enter to initiate the creation of your local clone.
+[Back to top &uarr;](#SAVIN-DESIGN)
+
+## Credits
+
